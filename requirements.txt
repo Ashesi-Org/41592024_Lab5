@@ -1,0 +1,4 @@
+Flask==2.0.2
+flask-restful==0.3.9
+functions-framework
+firebase-admin==5.0.1
